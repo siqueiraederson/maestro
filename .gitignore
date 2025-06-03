@@ -1,9 +1,23 @@
-venv/
+# Python
 __pycache__/
 *.pyc
-*.sqlite3
-*.log
+*.pyo
 .env
-.idea
+
+# Virtual Environment
+venv/
+
+# Django
+*.sqlite3
+media/
 staticfiles/
+
+# IDEs
+.idea
+
+# Logs
+*.log
+
+
+
 
