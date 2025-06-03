@@ -9,7 +9,7 @@ DATABASES = {
         'NAME': 'maestro',
         'USER': 'maestro',
         'PASSWORD': 'm@&$Tr025',
-        'HOST': '192.168.99.49',
+        'HOST': 'localhost',
         'PORT': '5432',
     }
 }
